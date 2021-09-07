@@ -1,2 +1,2 @@
 # wain21
-IEEE ICDM Workshop on AI for Nudging
+IEEE ICDM Workshop on AI for Nudging and Personalization.
